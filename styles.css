@@ -36,11 +36,6 @@ button {
   border-radius: 30px;
 }
 
-.zero {
-  grid-row-start: 5;
-  grid-column-start: 1;
-  grid-column-end: 3;
-}
 .enter {
   grid-row-start: 4;
   grid-row-end: 6;
